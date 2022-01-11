@@ -13,5 +13,6 @@ namespace aemarcoCommons.Extensions.NumberExtensions
         {
             return Math.Min(inclusiveMaximum, Math.Max(inclusiveMinimum, value));
         }
+        
     }
 }
